@@ -1,3 +1,5 @@
+// This component need to be updated to use ThemeContext.js
+
 import React, { Component} from 'react'
 import { ThemeContext } from "./App"
 
